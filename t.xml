@@ -1,0 +1,2904 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Article>
+<ArticleInfo ArticleType="OriginalPaper" ContainsESM="No" Language="En" NumberingStyle="Unnumbered" OutputMedium="All" TocLevels="0">
+<ArticleID>JOHE-D-19-00063</ArticleID>
+<ArticleDOI>
+<?InsertOnReleaseDOI DOI?>
+</ArticleDOI>
+<ArticleSequenceNumber>0</ArticleSequenceNumber>
+<ArticleTitle Language="En">Community-based cervical cancer education:</ArticleTitle>
+<ArticleSubTitle Language="En">Changes in knowledge and beliefs among Vietnamese American women</ArticleSubTitle>
+<ArticleCategory>OriginalPaper</ArticleCategory>
+<ArticleFirstPage>1</ArticleFirstPage>
+<ArticleLastPage>1</ArticleLastPage>
+<ArticleHistory>
+<RegistrationDate>
+<Year>
+<?InsertOnReleaseYear OnlineYear?>
+</Year>
+<Month>
+<?InsertOnReleaseMonth OnlineMonth?>
+</Month>
+<Day>
+<?InsertOnReleaseDay OnlineDay?>
+</Day>
+</RegistrationDate>
+<OnlineDate>
+<Year>
+<?InsertOnReleaseYear OnlineYear?>
+</Year>
+<Month>
+<?InsertOnReleaseMonth OnlineMonth?>
+</Month>
+<Day>
+<?InsertOnReleaseDay OnlineDay?>
+</Day>
+</OnlineDate>
+</ArticleHistory>
+<ArticleCopyright>
+<CopyrightHolderName>
+<?InsertOnReleaseOnlineCopyrightName CopyrightName?>
+</CopyrightHolderName>
+<CopyrightYear>2018</CopyrightYear>
+</ArticleCopyright>
+<ArticleContext>
+<JournalID>1272</JournalID>
+<VolumeIDStart>
+<?InsertOnReleaseVolumeIDStart VolumeIDStart?>
+</VolumeIDStart>
+<VolumeIDEnd>
+<?InsertOnReleaseVolumeIDEnd VolumeIDEnd?>
+</VolumeIDEnd>
+<IssueIDStart>
+<?InsertOnReleaseIssueIDStart IssueIDStart?>
+</IssueIDStart>
+<IssueIDEnd>
+<?InsertOnReleaseIssueIDEnd IssueIDEnd?>
+</IssueIDEnd>
+</ArticleContext>
+</ArticleInfo>
+<AuthorGroup>
+<Author AffiliationIDS="Aff1 Aff6" CorrespondingAffiliationID="Aff6" ID="Au1">
+<AuthorName>
+<GivenName>Carolyn</GivenName>
+<GivenName>Y.</GivenName>
+<FamilyName>Fang</FamilyName>
+</AuthorName>
+<Contact>
+<Email>carolyn.fang@fccc.edu</Email>
+</Contact>
+</Author>
+<Author AffiliationIDS="Aff2" ID="Au2">
+<AuthorName>
+<GivenName>Minsun</GivenName>
+<FamilyName>Lee</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="Aff3" ID="Au3">
+<AuthorName>
+<GivenName>Ziding</GivenName>
+<FamilyName>Feng</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="Aff2" ID="Au4">
+<AuthorName>
+<GivenName>Yin</GivenName>
+<FamilyName>Tan</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="Aff4" ID="Au5">
+<AuthorName>
+<GivenName>Fayola</GivenName>
+<FamilyName>Levine</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="Aff4" ID="Au6">
+<AuthorName>
+<GivenName>Hunter</GivenName>
+<FamilyName>College</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="Aff4" ID="Au7">
+<AuthorName>
+<GivenName>Cuc</GivenName>
+<FamilyName>Nguyen</FamilyName>
+</AuthorName>
+</Author>
+<Author AffiliationIDS="Aff5" ID="Au8">
+<AuthorName>
+<GivenName>Grace</GivenName>
+<GivenName>X.</GivenName>
+<FamilyName>Ma</FamilyName>
+</AuthorName>
+</Author>
+<Affiliation ID="Aff1">
+<OrgDivision>Cancer Prevention and Control Program</OrgDivision>
+<OrgName>Fox Chase Cancer Center</OrgName>
+</Affiliation>
+<Affiliation ID="Aff2">
+<OrgName>Center for Asian Health Lewis Katz School of Medicine, Temple University</OrgName>
+</Affiliation>
+<Affiliation ID="Aff3">
+<OrgDivision>Biostatistics Program Fred Hutchinson Cancer Research Center</OrgDivision>
+</Affiliation>
+<Affiliation ID="Aff4">
+<OrgName>Asian Community Health Coalition</OrgName>
+<OrgAddress>
+<City>Philadelphia</City>
+<State>PA</State>
+</OrgAddress>
+</Affiliation>
+<Affiliation ID="Aff5">
+<OrgDivision>Center for Asian Health, Department of Clinical Sciences Lewis Katz School of Medicine</OrgDivision>
+<OrgName>Temple University</OrgName>
+</Affiliation>
+<Affiliation ID="Aff6">
+<OrgName>Fox Chase Cancer Center</OrgName>
+<OrgAddress>
+<Street>333 Cottman Ave</Street>
+<Postcode>19111</Postcode>
+<City>Philadelphia</City>
+<State>PA</State>
+<Country Code="US">USA</Country>
+</OrgAddress>
+</Affiliation>
+</AuthorGroup>
+<RawAuthorGroup>
+<Para ID="Par1">Carolyn Y. Fang, PhD</Para>
+<Para ID="Par2">Cancer Prevention and Control Program</Para>
+<Para ID="Par3">Fox Chase Cancer Center</Para>
+<Para ID="Par4">Minsun Lee, PhD</Para>
+<Para ID="Par5">Center for Asian Health</Para>
+<Para ID="Par6">Lewis Katz School of Medicine, Temple University</Para>
+<Para ID="Par7">Ziding Feng, PhD</Para>
+<Para ID="Par8">Biostatistics Program</Para>
+<Para ID="Par9">Fred Hutchinson Cancer Research Center</Para>
+<Para ID="Par10">Yin Tan, MD, MPH</Para>
+<Para ID="Par11">Center for Asian Health</Para>
+<Para ID="Par12">Lewis Katz School of Medicine, Temple University</Para>
+<Para ID="Par13">Fayola Levine</Para>
+<Para ID="Par14">Hunter College</Para>
+<Para ID="Par15">Cuc Nguyen</Para>
+<Para ID="Par16">Asian Community Health Coalition</Para>
+<Para ID="Par17">Philadelphia, PA</Para>
+<Para ID="Par18">Grace X. Ma, PhD</Para>
+<FundingInformation>
+<Heading>Funding:</Heading>
+<SimplePara>This research was supported by National Cancer Institute grants U54 CA153513, R01 CA 111570, and U54 CA221705.</SimplePara>
+</FundingInformation>
+<Para ID="Par19">Center for Asian Health and Department of Clinical Sciences</Para>
+<Para ID="Par20">Lewis Katz School of Medicine, Temple University</Para>
+<Para ID="Par21">Correspondence concerning this article should be addressed to:</Para>
+<Para ID="Par22">Carolyn Y. Fang, PhD</Para>
+<Para ID="Par23">Fox Chase Cancer Center</Para>
+<Para ID="Par24">333 Cottman Ave.</Para>
+<Para ID="Par25">Philadelphia, PA 19111</Para>
+<Para ID="Par26">USA</Para>
+<Para ID="Par27">Email: carolyn.fang@fccc.edu</Para>
+</RawAuthorGroup>
+<Para ID="Par28">
+<Emphasis Type="Underline">Research Support and Acknowledgements</Emphasis>: This project was supported by grant R01 CA111570 and the TUFCCC/HC Regional Comprehensive Cancer Health Disparity Partnership, Award Number U54 CA221704(5) from the National Cancer Institute. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Cancer Institute or the National Institutes of Health. The authors wish to thank the Asian Community Health Coalition and its member organizations for their collaboration.</Para>
+<FormalPara ID="FPar1" RenderingStyle="Style1">
+<Heading>RUNNING HEAD</Heading>
+<Para ID="Par29">Community-based cervical cancer screening education</Para>
+</FormalPara>
+<Abstract ID="Abs1" Language="En" OutputMedium="All">
+<Heading>Abstract</Heading>
+<Para ID="Par30">Low cervical cancer screening rates among Vietnamese American women have been attributed, in part, to inadequate knowledge about cervical cancer and health beliefs that hinder screening. A community-based educational program was developed to improve knowledge and attitudes toward cervical cancer screening in this underserved population. It was hypothesized that the program would result in increases in knowledge, as well as enhanced health beliefs and self-efficacy toward obtaining cervical cancer screening. Using a group-randomized design, 1488 women from 30 Vietnamese community-based organizations were assigned to either the intervention (n&#x2009;=&#x2009;816) or control (n&#x2009;=&#x2009;672) conditions. The intervention group received cervical cancer education delivered by bilingual community health educators. Intervention content addressed individual beliefs and expectancies regarding cervical cancer screening (e.g., perceived risk of developing cervical cancer; perceived benefits and barriers to screening; social and cultural norms regarding screening). The control group received general health education, including information about cancer screening. Knowledge and health beliefs were assessed at baseline and post-intervention. Among women in the intervention group, knowledge about cervical cancer and screening guidelines increased, perceptions of risk and screening benefits increased, and perceived barriers to screening decreased. Changes in knowledge and health beliefs were not observed among women in the control group. A community-based educational program can help increase knowledge about cervical cancer and screening, promote positive changes in women&#x2019;s beliefs about the benefits of cervical cancer screening, and reduce perceived barriers to screening. Such programs may play an important role in addressing health disparities and informing underserved populations about recommended screening tests.</Para>
+</Abstract>
+<KeywordGroup Language="En" OutputMedium="All">
+<Heading>Key words:</Heading>
+<Keyword>cervical cancer</Keyword>
+<Keyword>health beliefs</Keyword>
+<Keyword>knowledge</Keyword>
+<Keyword>Vietnamese American women</Keyword>
+</KeywordGroup>
+<Acknowledgments>
+<Heading>Acknowledgements:</Heading>
+<SimplePara>Authors are thankful to all the patients and accomplices.</SimplePara>
+</Acknowledgments>
+<Para ID="Par31">Community-based cervical cancer education:</Para>
+<Para ID="Par32">Changes in knowledge and beliefs among Vietnamese American women</Para>
+<Section1 ID="Sec1" Type="Introduction" OutputMedium="All">
+<Heading>Introduction</Heading>
+<Para ID="Par33">Although significant advances in cervical cancer early detection and prevention have reduced the incidence, prevalence and mortality rates of this disease among U.S. women, incidence and mortality rates remain high in certain population subgroups [<CitationRef CitationID="CR1">1</CitationRef>] [<CitationRef CitationID="CR2">2</CitationRef>]. Disparities in cervical cancer incidence rates have been attributed, in part, to differences in screening uptake. Specifically, cervical cancer screening rates are dramatically lower among Vietnamese American women compared to women in other ethnic and racial subgroups [<CitationRef CitationID="CR3">3</CitationRef>]. Vietnamese American women also report lower levels of knowledge about cervical cancer screening and misperceptions about cancer and screening, which are associated with low screening uptake [<CitationRef CitationID="CR4">4</CitationRef>, <CitationRef CitationID="CR5">5</CitationRef>]. Educational programs to increase knowledge and promote positive attitudes toward screening have been developed and evaluated in other populations [<CitationRef CitationID="CR6">6</CitationRef>], but few evidence-based programs exist for Vietnamese American women.</Para>
+<Para ID="Par34">Our pilot work conducted with Vietnamese American women indicated that overall levels of knowledge about cervical cancer and screening are low [<CitationRef CitationID="CR7">7</CitationRef>]. In addition, women&#x2019;s perceived risk, benefits of screening, and barriers to screening were associated with screening behavior [<CitationRef CitationID="CR8">8</CitationRef>]. Therefore, we developed a community-based program designed to improve knowledge and attitudes toward cervical cancer screening in this at-risk population [<CitationRef CitationID="CR9">9</CitationRef>]. Development of the educational content was guided by a conceptual framework derived from the Health Belief Model (HBM) [<CitationRef CitationID="CR10">10</CitationRef>] and Social Cognitive Theory (SCT) [<CitationRef CitationID="CR11">11</CitationRef>]. The intervention addressed women&#x2019;s knowledge and awareness of cervical cancer and its risk factors, health beliefs about cervical cancer and screening (perceived risk, perceived severity of cervical cancer, perceived benefits of and barriers to screening), and self-efficacy in obtaining screening. It was hypothesized that the program would result in increases in knowledge, and enhanced health beliefs and self-efficacy toward cervical cancer screening.</Para>
+</Section1>
+<Section1 ID="Sec2" OutputMedium="All">
+<Heading>Methods</Heading>
+<Para ID="Par35">
+<Emphasis Type="Italic">Study Sites and Participants</Emphasis>
+</Para>
+<Para ID="Par36">The Center for Asian Health (CAH) has an enduring collaborative relationship with more than 380 Asian American community-based organizations represented by the Asian Community Health Coalition (ACHC), a nonprofit 501(c)(3) umbrella organization, established concurrently with CAH in 2000. The Vietnamese community-based organizations (VCOs) included in this study serve important social functions and they represent the ideal milieu for disseminating information on accessibility to needed health services. Their unique status in these communities underscores their importance as an ideal venue for program delivery. The range of female Vietnamese American members in the 30 organizations included in this study is between 80 and 2,500. The average age of members is 52&#x00A0;years and ranged from 20&#x00A0;years to 70&#x00A0;years. Vietnamese American community leaders were directly involved in the planning, development, and implementation of the project.</Para>
+<Para ID="Par37">From 2008 to 2011, Vietnamese American women (n&#x2009;=&#x2009;1,949) were recruited from 30 participating VCOs and assessed for study eligibility. Women were recruited in person, using informational fliers and community organization leadership engagement. Of the total who were assessed for eligibility, 1,518 women met the inclusion criteria of self-identified Vietnamese identity; aged 18 to 70 years; was not currently up-to-date with recommended cervical cancer screening guidelines; and had not been diagnosed with cervical cancer. Among eligible women, 1,488 consented, completed the baseline assessment, and are included in the data analysis for this article. Overall, 816 women participated in the intervention program and 672 women participated in the control group. This study was approved by the Temple University Institutional Review Board and the Fox Chase Cancer Center Institutional Review Board.</Para>
+<Para ID="Par38">
+<Emphasis Type="Italic">Procedures</Emphasis>
+</Para>
+<Para ID="Par39">Prior to project implementation, community leaders and volunteers participated in training sessions focused on re-visitation of project aims and their significance to Vietnamese women, recruitment strategies, and guidelines for administration of the study assessments and program delivery. All measures in English were translated, back- translated and pretested in Vietnamese to ensure the scientific and cultural appropriateness of the instrument for community Vietnamese participants. The 20- to 30- minute baseline survey was offered in both Vietnamese and English language versions, and bilingual assistance was available at all sites. All study participants completed the survey in Vietnamese.</Para>
+<Para ID="Par40">At study entry, participants completed baseline assessments of knowledge, health beliefs, and self-efficacy. Intervention participants met in small groups and received one 2-hour educational session conducted by bilingual community health educators (CHEs). Educational sessions were held at community sites and focused on cervical cancer risk in the general population and specifically among Vietnamese American women; screening guidelines and procedures; and strategies for overcoming barriers to screening relevant to Vietnamese American women. The content of the culturally-relevant educational program, which was guided by the Health Belief Model (HBM) [<CitationRef CitationID="CR12">12</CitationRef>] and Social Cognitive Theory (SCT) [<CitationRef CitationID="CR13" AdditionalCitationIDS="CR14">13</CitationRef>&#x2013;<CitationRef CitationID="CR15">15</CitationRef>], addressed individual beliefs and expectancies regarding cervical cancer screening (e.g., perceived risk of developing cervical cancer; perceived benefits and barriers to screening; and social and cultural norms regarding screening). Materials on cervical cancer screening from federal agencies (NCI) were translated and distributed to participants. Information and resources on obtaining low-cost or free screening was provided, and intervention materials were available in both Vietnamese and English language versions.</Para>
+<Para ID="Par41">Participants in the control condition also received a 2-hour education session delivered by bilingual CHEs. This session included topics on general health, including healthy lifestyle behaviors and the benefits of obtaining routine medical checkups and cancer screening. Health promotion materials available from federal agencies were translated and made available in both English and Vietnamese language.</Para>
+<Para ID="Par42">Following the educational sessions, participants completed post-program assessments of knowledge, health beliefs, and self-efficacy.</Para>
+<Para ID="Par43">
+<Emphasis Type="Italic">Measures</Emphasis>
+</Para>
+<Para ID="Par44">The measures collected at baseline assessment include: (1) demographic characteristics and acculturation level; (2) Pap test history (i.e. ever had a prior Pap test); (3) knowledge of cervical cancer and screening; and (4) perceptions related to Health Belief Model and Social Cognitive Theory constructs. Information regarding the association of demographic and acculturation variables and beliefs about cervical cancer screening with prior Pap test screening behavior have been reported elsewhere [<CitationRef CitationID="CR8">8</CitationRef>].</Para>
+<Para ID="Par45">
+<Emphasis Type="Underline">Demographics and acculturation</Emphasis>. Demographic variables (e.g., age, education, and employment status) and acculturation level (e.g., English speaking/reading ability, country of birth, length of time living in the United States) were assessed to characterize the study sample.</Para>
+<Para ID="Par46">
+<Emphasis Type="Underline">Knowledge</Emphasis>. Nine items were used to assess women&#x2019;s knowledge regarding cervical cancer and the Pap test [<CitationRef CitationID="CR7">7</CitationRef>]. Response options for each item were &#x201C;Yes&#x201D;, &#x201C;No&#x201D;, or &#x201C;Do not know.&#x201D; These items were utilized in a number of our previous studies [<CitationRef CitationID="CR16">16</CitationRef>, <CitationRef CitationID="CR7">7</CitationRef>, <CitationRef CitationID="CR17">17</CitationRef>, <CitationRef CitationID="CR18">18</CitationRef>].</Para>
+<Para ID="Par47">
+<Emphasis Type="Underline">HBM constructs</Emphasis>. Items assessing HBM constructs were adapted from Champion for use with this population [<CitationRef CitationID="CR19">19</CitationRef>]. Internal consistency, test-retest reliability, construct validity and predictive validity of the HBM subscales have been reported in our prior work [<CitationRef CitationID="CR8">8</CitationRef>]. Responses to each item were scored on a five-point Likert- type scale ranging from 1("Strongly disagree") to 5 ("Strongly agree"). <Emphasis Type="Bold">Perceived susceptibility</Emphasis> of developing cervical cancer was assessed using two items: &#x201C;I think I am at risk for getting cervical cancer&#x201D; and &#x201C;I am more likely than the average woman to get cervical cancer.&#x201D; <Emphasis Type="Bold">Perceived severity</Emphasis> of the disease was assessed using three items (e.g., "Most women who develop cervical cancer will die from it"). In the present sample, Cronbach&#x2019;s alpha coefficient was 0.74 for perceived severity. <Emphasis Type="Bold">Perceived benefits</Emphasis> of undergoing cervical cancer screening were assessed using five items (e.g., "A Pap test can detect cervical cancer in its early stages, when it is easier to treat and cure"). Cronbach&#x2019;s alpha coefficient was 0.97 for perceived benefits, indicating high internal consistency. <Emphasis Type="Bold">Perceived psychosocial and structural barriers</Emphasis> to screening were assessed using 14 items (e.g., "I am scared to have a Pap test because I might learn that I have cancer"; &#x201C;I have language difficulties that make scheduling a Pap test very hard&#x201D;). Cronbach&#x2019;s alpha coefficient was 0.88 for perceived barriers. <Emphasis Type="Bold">Self-efficacy</Emphasis> in obtaining screening was assessed using three items (e.g., "I feel capable of arranging to have a Pap test"). Responses to each item were scored on a 10 point scale ranging from 1 (not at all confident) to 10 (totally confident). Cronbach&#x2019;s alpha coefficient was 0.99 for self-efficacy.</Para>
+<Section2 ID="Sec3" OutputMedium="All">
+<Heading>Data Analysis</Heading>
+<Para ID="Par48">To compare sample characteristics between the intervention and control groups, Chi-square tests were performed. Any demographic variables that significantly differed between the two groups were included as covariates in subsequent analyses. For descriptive purposes, the proportion of women who responded in a particular fashion (&#x201C;Yes&#x201D; to each knowledge item; &#x201C;Agree&#x201D; or &#x201C;Strongly agree&#x201D; to each health belief) was calculated for each group. Then, chi-square analyses were conducted to examine whether the proportion of participants who endorsed each item significantly changed from pre- to post-program in each (intervention and control) group.</Para>
+<Para ID="Par49">To investigate the effect of the intervention on psychosocial beliefs, each variable was scored as follows. Knowledge variables were coded as &#x2018;1&#x2019; for each correct answer and &#x2018;0&#x2019; for each incorrect or &#x201C;Do not know&#x201D; response, and then the mean score across all knowledge items were calculated. For the variables of perceived susceptibility, severity, benefit, and barriers, mean scores were calculated by adding up each item response (ranging from 1 to 5, where higher scores represent greater agreement with that belief) and dividing the total scores by number of items for each variable. The mean score of the self-efficacy items, which were measured on a 10-point scale, was also calculated. For all psychosocial variables, a higher numeric value indicated a higher level of that psychosocial construct. To compute change scores, the baseline scores were subtracted from the post-program scores. Thus, positive scores reflect an increase in the psychosocial construct at post-program.</Para>
+<Para ID="Par50">Paired T-tests were conducted to examine whether the scores of each psychosocial construct significantly changed from pre- to post-program within each group (intervention and control group separately). Then, analysis of covariance (ANCOVA) was conducted to determine whether the extent of change observed was significantly different across the intervention and the control groups.</Para>
+</Section2>
+</Section1>
+<Section1 ID="Sec4" Type="Results" OutputMedium="All">
+<Heading>Results</Heading>
+<Para ID="Par51">
+<Emphasis Type="Italic">Participant Characteristics</Emphasis>
+</Para>
+<Para ID="Par52">Participants were predominantly married (74.9&#x0025;) and had a high school education (60.2&#x0025;) or below (32.8&#x0025;). The majority of participants (86.8&#x0025;) reported an annual household income of &#x2264;$20,000. More than 94&#x0025; of study participants were foreign-born, and although many had resided in the US between 11&#x2013;20 years, very few participants reported proficiency in reading or speaking English (see Table&#x00A0;<InternalRef RefID="Tab1">1</InternalRef>).</Para>
+<Para ID="Par53">
+<Table Float="Yes" ID="Tab1">
+<Caption Language="En">
+<CaptionNumber>Table 1</CaptionNumber>
+<CaptionContent>
+<SimplePara>Demographic characteristics at baseline</SimplePara>
+</CaptionContent>
+</Caption>
+<tgroup cols="5">
+<colspec colnum="1" colname="c1" align="left" />
+<colspec colnum="2" colname="c2" align="left" />
+<colspec colnum="3" colname="c3" align="left" />
+<colspec colnum="4" colname="c4" align="left" />
+<colspec colnum="5" colname="c5" align="left" />
+<thead>
+<row>
+<entry align="left" colname="c1" />
+<entry align="left" colname="c2">
+<SimplePara>Total</SimplePara>
+<SimplePara><Emphasis Type="Bold">N&#x2009;=&#x2009;1488 (&#x0025;)</Emphasis></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>Intervention</SimplePara>
+<SimplePara><Emphasis Type="Bold">N&#x2009;=&#x2009;816 (&#x0025;)</Emphasis></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>Control</SimplePara>
+<SimplePara><Emphasis Type="Bold">N&#x2009;=&#x2009;672 (&#x0025;)</Emphasis></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>P-value</SimplePara>
+</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><Emphasis Type="Bold">Age</Emphasis></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>1478</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>812</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>666</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle>.109</NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle>&#x2264; 29</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>142 ( 9.6&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>85 (10.5&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>57 ( 8.6&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle></NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle>30&#x2013;49</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>555 (37.5&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>302 (37.1&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>253 (38.0&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle></NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle>50&#x2013;64</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>561 (38.0&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>292 (36.0&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>269 (40.3&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle></NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle>&#x2265; 65</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>220 (14.9&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>133 (16.4&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>87 (13.1&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle></NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><Emphasis Type="Bold">Marital Status</Emphasis></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>1479</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>809</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>670</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle>.449</NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle>Married/living as married</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>1108 (74.9&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>611 (75.4&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>497 (74.2&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle></NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle>Never married</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>197 (13.3&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>103 (12.8&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>94 (14.0&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle></NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle>Divorced/separated</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>68 ( 4.6&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>42 ( 5.3&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>26 ( 3.9&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle></NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle>Widowed</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>106 ( 7.2&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>53 ( 6.5&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>53 ( 7.9&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle></NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><Emphasis Type="Bold">Education</Emphasis></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>1422</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>770</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>652</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle>&#x003C;.001</NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle>Below high school</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>466 (32.8&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>216 (28.1&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>250 (38.4&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle></NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle>High school</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>857 (60.2&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>506 (65.7&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>351 (53.8&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle></NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle>College or above</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>99 ( 7.0&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>48 ( 6.2&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>51 ( 7.8&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle></NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><Emphasis Type="Bold">Employment Status</Emphasis></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>1477</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>810</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>667</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle>.088</NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle>Employed</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>910 (61.6&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>514 (63.5&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>396 (59.4&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle></NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle>Unemployed</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>90 ( 6.1&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>55 ( 6.7&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>35 ( 5.2&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle></NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle>Retired</NoStyle></SimplePara>
+<SimplePara><NoStyle>Homemaker/Student</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>73 ( 4.9&#x0025;)</NoStyle></SimplePara>
+<SimplePara><NoStyle>404 ( 27.4&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>34 ( 4.2&#x0025;)</NoStyle></SimplePara>
+<SimplePara><NoStyle>207 ( 25.6&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>39 ( 5.8&#x0025;)</NoStyle></SimplePara>
+<SimplePara><NoStyle>197 (29.6&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle></NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><Emphasis Type="Bold">Household income</Emphasis></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>882</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>430</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>452</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle>.003</NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle>&#x2264; $20,000</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>776 (86.8&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>390 ( 90.7&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>376 (83.2&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle></NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle>$20,000 - $40,000</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>100 (11.4&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>36 ( 8.4&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>64 (14.2&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle></NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle>$40,000&#x002B;</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>16 ( 1.8&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>4 ( 0.9&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>12 ( 2.6&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle></NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><Emphasis Type="Bold">Nativity Status</Emphasis></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>1475</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>810</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>665</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle>&#x003C;.001</NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle>US born</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>85 ( 5.8&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>5 ( 0.6&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>80 (12.0&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle></NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle>Foreign born</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>1390 (94.2&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>805 ( 99.4&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>585 (88.0&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle></NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle><Emphasis Type="Bold">Years Lived in the US</Emphasis></NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>1453</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>799</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>654</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle>.266</NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle>&#x2264; 10&#x00A0;years</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>482 (33.2&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>254 (31.8&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>228 (34.8&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle></NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle>11 - 20&#x00A0;years</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>875 (60.2&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>496 (62.1&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>379 (58.0&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle></NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle>&#x003E; 20&#x00A0;years</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>96 ( 6.6&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>49 ( 6.1&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>47 ( 7.2&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle></NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><Emphasis Type="Bold">English Speaking Proficiency</Emphasis></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>1484</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>814</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>670</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle>.083</NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle>Not at all/Not well</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>1387 (93.5&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>769 (94.5&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>618 (92.2&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle></NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle>Well/Very well</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>97 ( 6.5&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>45 ( 5.5&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>52( 7.8&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle></NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><Emphasis Type="Bold">English Reading Proficiency</Emphasis></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>1480</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>815</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>665</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle>.510</NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle>Not at all/Not well</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>1406 (95.0&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>777 (95.3&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>629 (94.6&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle></NoStyle></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><NoStyle>Well/Very well</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara><NoStyle>74 ( 5.0&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><NoStyle>38 ( 4.7&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>36 ( 5.4&#x0025;)</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><NoStyle></NoStyle></SimplePara>
+</entry>
+</row>
+</tbody>
+</tgroup>
+</Table>
+</Para>
+<Para ID="Par54">There were no significant differences between the intervention and control groups on age, marital status, employment status, number of years residing in the US, or English language proficiency. However, there were significant differences in education level (<Emphasis Type="Italic">p</Emphasis>&#x2009;&#x003C;&#x2009;0.001), household income (<Emphasis Type="Italic">p</Emphasis>&#x2009;=&#x2009;0.003), and country of birth (<Emphasis Type="Italic">p</Emphasis>&#x2009;&#x003C;&#x2009;0.001) (see Table&#x00A0;<InternalRef RefID="Tab1">1</InternalRef>). Specifically, a greater proportion of intervention participants were foreign-born and had received a high school education or beyond, but were more likely to report a lower household income (&#x2264;$20,000) compared to the control group.</Para>
+<Para ID="Par55">
+<Emphasis Type="Italic">Pre- and Post-Education Knowledge, Attitudes, and Beliefs</Emphasis>
+</Para>
+<Para ID="Par56">Overall, levels of knowledge were generally low at baseline. However, in the intervention group, significant increases in the proportion of women who were knowledgeable about screening guidelines (e.g., who should undergo screening) and cervical cancer risk factors were observed at post-program compared to baseline (Table&#x00A0;2). Despite the improvements in knowledge, relatively fewer women were aware that one can have cervical cancer but not have any symptoms (61.2&#x0025; at post-program) or that a Pap test is necessary for women who are not sexually active (63.6&#x0025;) compared to all other knowledge items (&#x003E;&#x2009;90&#x0025;) among women in the intervention group. The control group showed no significant changes in knowledge from pre- to post-program (Table&#x00A0;2).</Para>
+<Para ID="Par57">Although perceived risk remains low in this population, a significant increase was observed in the proportion of women in the intervention group who agreed that they were at risk for cervical cancer (Table&#x00A0;2). For perceived severity, women in the intervention group were less likely to agree with the statement that &#x201C;Most women who develop cervical will die from it&#x201D; at post-program, perhaps reflecting the knowledge gained that cervical cancer is curable if detected early. However, at post-program, the majority of women in the intervention group (&#x003E;&#x2009;60&#x0025;) agreed that cervical cancer would have a significant impact on their lives and relationships. In contrast, no changes in perceived risk or severity were observed among women in the control group (Table&#x00A0;2).</Para>
+<Para ID="Par58">Women in the intervention group reported significant increases in the perceived benefits of screening. At post-program, nearly all intervention participants agreed that a Pap test can detect cervical cancer in its early stages, is important for staying healthy, and would reduce one&#x2019;s worry about cervical cancer (Table&#x00A0;2). Among control group participants, only 46.5&#x2013;60.5&#x0025; of women perceived these benefits to screening at post-program. Importantly, many perceived barriers to screening were reduced among women in the intervention group. From pre- to post-program, dramatic reductions were observed in the proportion of women who believed that receiving a Pap test costs too much money (from 61.3 to 9.9&#x0025;), will take too much time (from 54.5 to 7.8&#x0025;), or that a Pap test is not necessary if one feels OK (from 41.7 to 4.1&#x0025;). The only perceived barrier that was not significantly impacted by the intervention program was the fear of learning that one might have cancer. Among women in the control group, no significant changes in perceived benefits or barriers to screening were observed.</Para>
+<Para ID="Par59">Finally, increases in self-efficacy were observed from pre- to post-program (Table&#x00A0;2). Across both groups, women reported feeling more capable of arranging to have a Pap test (both <Emphasis Type="Italic">p</Emphasis>-values&#x2009;&#x003C;&#x2009;0.001) at post-program. However, only women in the intervention group reported significant increases in their ability to manage any distress associated with obtaining a Pap test (<Emphasis Type="Italic">p</Emphasis>&#x2009;&#x003C;&#x2009;0.001), whereas no change was observed in the control group (<Emphasis Type="Italic">p</Emphasis>&#x2009;=&#x2009;0.135).</Para>
+<Para ID="Par60">
+<Emphasis Type="Italic">Changes in Mean Knowledge, Attitudes, and Beliefs Over Time by Group</Emphasis>
+</Para>
+<Para ID="Par61">Items were combined to form each construct and evaluated for change over time by group. Statistically significant changes were consistently observed over time in the intervention group, but not in the control group (see Table&#x00A0;3). Specifically, significantly greater increases in knowledge from pre- to post-program were observed among the intervention group compared to the control group (time x group <Emphasis Type="Italic">p</Emphasis>-value&#x2009;&#x003C;&#x2009;0.001). Similarly, participants in the intervention group had significantly greater increases in perceived susceptibility to cervical cancer, perceived severity of cervical cancer, and perceived benefits of screening compared to the control group (time x group <Emphasis Type="Italic">p</Emphasis>-values&#x2009;&#x2264;&#x2009;0.001). Significantly greater decreases in perceived barriers were reported from pre- to post-program in the intervention group compared to the control group (time x group <Emphasis Type="Italic">p</Emphasis>-value&#x2009;&#x003C;&#x2009;0.001). Self-efficacy increased over time in both groups, but the increase was significantly greater in the intervention group compared to the control group (time x group <Emphasis Type="Italic">p</Emphasis>-value&#x2009;&#x003C;&#x2009;0.001).</Para>
+</Section1>
+<Section1 ID="Sec5" Type="Discussion" OutputMedium="All">
+<Heading>Discussion</Heading>
+<Para ID="Par62">We found that a community-based educational program can increase knowledge and attitudes about cervical cancer and screening among underserved Vietnamese American women. Guided by the Health Belief Model and Social Cognitive Theory, the program sought to increase knowledge and address women&#x2019;s perceptions of risk, disease threat, and likely barriers to screening. The program also emphasized the benefits of cervical cancer screening and promoted positive social norms about screening and preventive health behaviors.</Para>
+<Para ID="Par63">Our findings indicate that knowledge about cervical cancer risk factors and screening guidelines increased among women in the intervention condition, but not in the control condition. However, despite significant improvements in overall knowledge, more than one-third of women in the intervention group remain unaware that cervical cancer can be asymptomatic or that cervical cancer screening remains necessary among women who are not sexually active. Therefore, future community-based educational programs need to address these knowledge gaps and increase women&#x2019;s awareness that early stage cervical cancer often has no symptoms. Further, in reviewing screening guidelines and recommendations, educational programs should re-iterate the importance of undergoing cervical cancer screening regardless of whether one is currently sexually active. By adding these components, future programs may be more successful in addressing these key misperceptions.</Para>
+<Para ID="Par64">Women&#x2019;s perceived susceptibility to cervical cancer did increase following the program, but overall remained relatively low. These findings are consistent with other studies in which Asian American women report low perceived risk for cervical cancer [<CitationRef CitationID="CR20">20</CitationRef>]. Importantly, perceived benefits of screening and early detection increased dramatically among women receiving the educational intervention. Women were more likely to believe that undergoing screening could lead to early detection, promote health, and reduce worry about cervical cancer. This shift toward more positive perceptions may help promote preventive health care practices [<CitationRef CitationID="CR21">21</CitationRef>, <CitationRef CitationID="CR8">8</CitationRef>].</Para>
+<Para ID="Par65">Similarly, women&#x2019;s perceived barriers to screening were reduced following participation in the educational program. Key sociocultural barriers such as being embarrassed or ashamed about being examined were dramatically reduced post-education, which is important given prior studies that have found these concerns (shame, embarrassment) to be common among Asian women and negatively affect their participation in cervical cancer screening [<CitationRef CitationID="CR22">22</CitationRef>, <CitationRef CitationID="CR23">23</CitationRef>]. The program also resulted in substantial reductions in perceived access and healthcare system barriers, although over 15&#x0025; of women in the intervention group continued to report language barriers and nearly 11&#x0025; indicated that lack of transportation to the clinic was a barrier to obtaining a Pap test. These findings indicate that we need to find ways to make screening exams more readily accessible within the community and to increase awareness of available medical translation services at healthcare clinics. Federal and state laws require that healthcare organizations that receive Medicare, Medicaid, or other federal funds must provide oral interpreters and written translated materials. Thus, increasing awareness of these beneficial public health policies can help reduce perceived access barriers that may be impeding uptake of screening behavior.</Para>
+<Para ID="Par66">Self-efficacy increased across both groups, although the change was more pronounced in the intervention group. Due to the complexity of actually obtaining screening (e.g., identifying a provider, scheduling an exam, completing medical and/or insurance paperwork, obtaining transportation to and from the clinic), other researchers have noted that it may be important to educate other members of the family, community members, and providers who serve this population, in order to support women&#x2019;s efforts to obtain necessary screening exams [<CitationRef CitationID="CR24">24</CitationRef>].</Para>
+<Para ID="Par67">Several limitations of this study should be noted. First, participants were recruited from Vietnamese community organizations, which could limit generalizability to those individuals who do not belong to or participate in such organizations. Second, in order to not overburden participants with lengthy questionnaires, the study did not capture information on interpersonal factors [<CitationRef CitationID="CR25">25</CitationRef>] or other variables that may inform attitudes and beliefs toward cervical cancer screening. Due to the study framework, assessments were focused on constructs from the HBM and SCT. Finally, we acknowledge that changes in knowledge and beliefs may not necessarily translate into screening uptake. However, a recent systematic review reported that theory-based educational interventions are effective in promoting greater awareness of screening and increasing screening rates [<CitationRef CitationID="CR6">6</CitationRef>].</Para>
+<Para ID="Par68">In summary, our findings indicate that a community-based educational program that acknowledges Vietnamese American women&#x2019;s cultural and social norms while encouraging them to adopt new health preventive concepts into their daily life can be effective in improving knowledge and promoting positive perceptions of cervical cancer screening. While healthcare access barriers remain a considerable obstacle, the provision of culturally-relevant information to increase women&#x2019;s understanding of the importance of early detection can motivate and equip Vietnamese American women to take the first steps toward obtaining the recommended screening tests.</Para>
+</Section1>
+<Ethics>
+<Heading>Compliance with Ethical Standards</Heading>
+<FormalPara ID="FPar2" RenderingStyle="Style1">
+<Heading>1. Disclosure</Heading>
+<Para ID="Par69">
+<Emphasis Type="Bold">of Potential Conflicts of Interest</Emphasis>
+</Para>
+</FormalPara>
+</Ethics>
+<FundingInformation>
+<Heading>Funding:</Heading>
+<SimplePara>This research was supported by National Cancer Institute grants U54 CA153513, R01 CA 111570, and U54 CA221705.</SimplePara>
+</FundingInformation>
+<Ethics>
+<FormalPara ID="FPar3" RenderingStyle="Style1">
+<Heading><Emphasis Type="Underline">Conflict of Interest</Emphasis>:</Heading>
+<Para ID="Par70">The authors declare that they have no conflict of interest.</Para>
+</FormalPara>
+</Ethics>
+<Para ID="Par71">
+<Emphasis Type="Bold">2. Research Involving Human Participants</Emphasis>
+</Para>
+<Ethics>
+<FormalPara ID="FPar4" RenderingStyle="Style1">
+<Heading><Emphasis Type="Underline">Ethical Approval</Emphasis>:</Heading>
+<Para ID="Par72">All procedures performed in studies involving human participants were in accordance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards.</Para>
+</FormalPara>
+<FormalPara ID="FPar5" RenderingStyle="Style1">
+<Heading><Emphasis Type="Underline">Informed Consent</Emphasis>:</Heading>
+<Para ID="Par73">Informed consent was obtained from all individual participants included in the study.</Para>
+</FormalPara>
+</Ethics>
+<Tablefootnote>
+<Emphasis Type="Bold">Table&#x00A0;2</Emphasis>
+</Tablefootnote>
+<Tablefootnote>
+<Emphasis Type="Bold">Knowledge, Attitudes, and Beliefs at Baseline and Post-Program</Emphasis>
+</Tablefootnote>
+<Tablecontd></Tablecontd>
+<Para ID="Par74">
+<Table Float="No" ID="Taba">
+<tgroup cols="7">
+<colspec colnum="1" colname="c1" align="left" />
+<colspec colnum="2" colname="c2" align="left" />
+<colspec colnum="3" colname="c3" align="left" />
+<colspec colnum="4" colname="c4" align="left" />
+<colspec colnum="5" colname="c5" align="left" />
+<colspec colnum="6" colname="c6" align="left" />
+<colspec colnum="7" colname="c7" align="left" />
+<thead>
+<row>
+<entry align="left" colname="c1" />
+<entry align="left" namest="c2" nameend="c4">
+<SimplePara>Intervention (n&#x2009;=&#x2009;816)</SimplePara>
+</entry>
+<entry align="left" namest="c5" nameend="c7">
+<SimplePara>Control (n&#x2009;=&#x2009;672)</SimplePara>
+</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" colname="c1" />
+<entry align="left" colname="c2">
+<SimplePara><Emphasis Type="Bold">Baseline</Emphasis></SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara><Emphasis Type="Bold">Follow-up</Emphasis></SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><Emphasis Type="BoldItalic">p-</Emphasis><Emphasis Type="Bold">value</Emphasis></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara><Emphasis Type="Bold">Baseline</Emphasis></SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara><Emphasis Type="Bold">Follow-up</Emphasis></SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara><Emphasis Type="BoldItalic">p-</Emphasis><Emphasis Type="Bold">value</Emphasis></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><Emphasis Type="Bold">Knowledge (&#x0025; yes)</Emphasis></SimplePara>
+</entry>
+<entry align="left" colname="c2" />
+<entry align="left" colname="c3" />
+<entry align="left" colname="c4" />
+<entry align="left" colname="c5" />
+<entry align="left" colname="c6" />
+<entry align="left" colname="c7" />
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>One can have cervical cancer but not have symptoms</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>32.8&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>61.2&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>38.3&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>40.0&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.539</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Cervical cancer can be cured if detected early</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>38.2&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>95.2&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>&#x003C;.001</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>57.5&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>59.7&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.406</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Women 21 or older should have regular Pap tests</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>29.6&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>95.8&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>&#x003C;.001</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>44.7&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>46.1&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.622</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Pap test is necessary for women who are not sexually active</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>21.9&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>63.6&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>&#x003C;.001</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>29.0&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>30.9&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.471</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Women under 21 but sexually active for 3&#x00A0;years need Pap test</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>22.8&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>94.1&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>&#x003C;.001</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>28.1&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>30.3&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.369</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Pap test is necessary for women who no longer menstruate</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>26.9&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>94.4&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>&#x003C;.001</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>35.7&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>34.9&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.775</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Cervical cancer affects women of all ages</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>34.4&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>94.4&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>&#x003C;.001</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>54.4&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>55.0&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.827</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Pap test can detect cancer early and prolong life</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>35.1&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>96.9&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>&#x003C;.001</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>52.2&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>52.3&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.956</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Cervical cancer risk increases with age</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>25.6&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>92.5&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara><NoStyle>&#x003C;.001</NoStyle></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>37.6&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>37.1&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.866</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><Emphasis Type="Bold">Perceived Risk (&#x0025; agree)</Emphasis></SimplePara>
+</entry>
+<entry align="left" colname="c2" />
+<entry align="left" colname="c3" />
+<entry align="left" colname="c4" />
+<entry align="left" colname="c5" />
+<entry align="left" colname="c6" />
+<entry align="left" colname="c7" />
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>I think I am at risk for getting cervical cancer.</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>3.5&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>14.2&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>3.9&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>3.4&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.662</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>I am more likely than the average woman to get cervical cancer.</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>2.4&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>5.4&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>.002</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>2.7&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>3.6&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.347</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><Emphasis Type="Bold">Perceived Severity (&#x0025; agree)</Emphasis></SimplePara>
+</entry>
+<entry align="left" colname="c2" />
+<entry align="left" colname="c3" />
+<entry align="left" colname="c4" />
+<entry align="left" colname="c5" />
+<entry align="left" colname="c6" />
+<entry align="left" colname="c7" />
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Most women who develop cervical cancer will die from it</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>37.2&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>23.1&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>23.9&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>25.0&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.657</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>My whole life would change if I had cervical cancer</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>40.8&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>63.0&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>38.2&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>39.5&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.615</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Cervical cancer would threaten my relationship with my husband/partner</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>40.9&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>60.3&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>37.6&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>37.6&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>1.00</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><Emphasis Type="Bold">Perceived Benefits (&#x0025; agree)</Emphasis></SimplePara>
+</entry>
+<entry align="left" colname="c2" />
+<entry align="left" colname="c3" />
+<entry align="left" colname="c4" />
+<entry align="left" colname="c5" />
+<entry align="left" colname="c6" />
+<entry align="left" colname="c7" />
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>A Pap test can detect cervical cancer in its early stages when it is easier to treat and cure</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>40.0&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>96.1&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>57.7&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>60.2&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.346</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Getting a Pap test every year is an important thing for me to do in order to stay as healthy as I can</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>39.7&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>97.9&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>58.2&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>59.4&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.658</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Getting a Pap test is the best way to detect cervical cancer</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>37.7&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>97.7&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>57.1&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>60.5&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.203</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Having a Pap test every year will decrease my chances of dying from cervical cancer</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>36.6&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>97.7&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>50.7&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>54.1&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.209</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>When I get a Pap test, I don&#x2019;t worry as much about cervical cancer</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>35.6&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>96.1&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>42.6&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>46.5&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.154</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><Emphasis Type="Bold">Perceived Barriers (&#x0025; agree)</Emphasis></SimplePara>
+</entry>
+<entry align="left" colname="c2" />
+<entry align="left" colname="c3" />
+<entry align="left" colname="c4" />
+<entry align="left" colname="c5" />
+<entry align="left" colname="c6" />
+<entry align="left" colname="c7" />
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Having a Pap test is embarrassing for me</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>15.1&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>7.1&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>14.4&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>16.6&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.259</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>I am scared to have a Pap test because I might learn that I have cancer</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>6.4&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>4.8&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>.161</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>6.5&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>6.2&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.824</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>If I am destined to get cervical cancer, Pap test will not prevent it</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>14.5&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>3.3&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>11.6&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>11.7&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.932</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>I do not need a Pap test if I feel OK</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>41.7&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>4.1&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>27.8&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>23.6&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.081</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Having a Pap test will be painful and unpleasant</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>26.3&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>4.9&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>27.9&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>27.6&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.903</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Do not know where to go or who to ask to get a Pap test</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>26.3&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>8.8&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>29.7&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>29.7&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>1.00</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Do not understand what will be done during a Pap test</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>24.6&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>5.7&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>29.1&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>27.9&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.629</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Uncomfortable with having a stranger perform a Pap test</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>29.1&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>9.6&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>52.0&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>49.9&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.445</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>My partner is uncomfortable with me being examined by a male doctor</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>34.2&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>9.9&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>43.7&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>40.6&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.246</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Having a Pap test takes too much time</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>54.5&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>7.8&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>55.0&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>55.0&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>1.00</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Language difficulties make it hard to schedule a Pap test</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>58.9&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>15.7&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>44.9&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>44.0&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.742</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Having a Pap test costs too much money</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>61.3&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>9.9&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>52.2&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>50.7&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.586</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>I have no transportation to the clinic to get a Pap test</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>27.0&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>10.8&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>20.1&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>19.0&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.630</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Doctor is not available at convenient times for me to have a Pap test</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>33.9&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>8.6&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>18.6&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>16.3&#x0025;</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.281</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara><Emphasis Type="Bold">Self-Efficacy [Mean (SD) on a scale from 1 to 10]</Emphasis></SimplePara>
+</entry>
+<entry align="left" colname="c2" />
+<entry align="left" colname="c3" />
+<entry align="left" colname="c4" />
+<entry align="left" colname="c5" />
+<entry align="left" colname="c6" />
+<entry align="left" colname="c7" />
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Confident that I can make Pap test arrangements</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>6.77 (2.46)</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>9.08 (1.02)</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>7.26 (2.08)</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>7.43 (2.11)</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.001</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Confident that I can get the Pap test</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>6.77 (2.46)</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>9.08 (1.00)</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>7.28 (2.08)</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>7.42 (2.10)</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.001</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Confident that I can manage distress associated with getting a Pap test</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>6.66 (2.53)</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>8.93 (1.22)</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>7.27 (2.07)</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>7.34 (2.11)</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.135</SimplePara>
+</entry>
+</row>
+</tbody>
+</tgroup>
+</Table>
+</Para>
+<Tablecontd></Tablecontd>
+<Para ID="Par75">
+<Table Float="No" ID="Tabb">
+<tgroup cols="9">
+<colspec colnum="1" colname="c1" align="left" />
+<colspec colnum="2" colname="c2" align="left" />
+<colspec colnum="3" colname="c3" align="left" />
+<colspec colnum="4" colname="c4" align="left" />
+<colspec colnum="5" colname="c5" align="left" />
+<colspec colnum="6" colname="c6" align="left" />
+<colspec colnum="7" colname="c7" align="left" />
+<colspec colnum="8" colname="c8" align="left" />
+<colspec colnum="9" colname="c9" align="left" />
+<thead>
+<row>
+<entry align="left" namest="c1" nameend="c9">
+<SimplePara>Table&#x00A0;3. Change in knowledge and health beliefs across groups over time</SimplePara>
+</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" colname="c1" />
+<entry align="left" namest="c2" nameend="c4">
+<SimplePara>Intervention, mean (s.e.)</SimplePara>
+</entry>
+<entry align="left" namest="c5" nameend="c7">
+<SimplePara>Control, mean (s.e.)</SimplePara>
+</entry>
+<entry align="left" colname="c8" />
+<entry align="left" colname="c9">
+<SimplePara>time&#x2009;&#x00D7;&#x2009;group</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1" />
+<entry align="left" colname="c2">
+<SimplePara>Pre</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>Post</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>p-value<Superscript>a</Superscript></SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>Pre</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>Post</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>p-value<Superscript>a</Superscript></SimplePara>
+</entry>
+<entry align="left" colname="c8">
+<SimplePara>F</SimplePara>
+</entry>
+<entry align="left" colname="c9">
+<SimplePara>p-value<Superscript>b</Superscript></SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Knowledge</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>0.29 (.01)</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>0.88 (.01)</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>0.43 (.02)</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>0.45 (.02)</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.139</SimplePara>
+</entry>
+<entry align="left" colname="c8">
+<SimplePara>499.55</SimplePara>
+</entry>
+<entry align="left" colname="c9">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Perceived Susceptibility</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>2.56 (.02)</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>2.66 (.02)</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>.002</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>2.36 (.03)</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>2.38 (.03)</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.484</SimplePara>
+</entry>
+<entry align="left" colname="c8">
+<SimplePara>10.38</SimplePara>
+</entry>
+<entry align="left" colname="c9">
+<SimplePara>.001</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Perceived Severity</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>3.36 (.02)</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>3.64 (.02)</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>3.29 (.03)</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>3.30 (.03)</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.845</SimplePara>
+</entry>
+<entry align="left" colname="c8">
+<SimplePara>82.24</SimplePara>
+</entry>
+<entry align="left" colname="c9">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Perceived Barrier</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>3.13 (.02)</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>2.26 (.02)</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>3.12 (.03)</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>3.09 (.03)</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.182</SimplePara>
+</entry>
+<entry align="left" colname="c8">
+<SimplePara>203.86</SimplePara>
+</entry>
+<entry align="left" colname="c9">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Perceived Benefits</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>3.51 (.03)</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>4.50 (.02)</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>3.70 (.04)</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>3.74 (.04)</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.081</SimplePara>
+</entry>
+<entry align="left" colname="c8">
+<SimplePara>269.25</SimplePara>
+</entry>
+<entry align="left" colname="c9">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" colname="c1">
+<SimplePara>Self-Efficacy</SimplePara>
+</entry>
+<entry align="left" colname="c2">
+<SimplePara>6.73 (.09)</SimplePara>
+</entry>
+<entry align="left" colname="c3">
+<SimplePara>9.04 (.04)</SimplePara>
+</entry>
+<entry align="left" colname="c4">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+<entry align="left" colname="c5">
+<SimplePara>7.27 (.08)</SimplePara>
+</entry>
+<entry align="left" colname="c6">
+<SimplePara>7.40 (.08)</SimplePara>
+</entry>
+<entry align="left" colname="c7">
+<SimplePara>.006</SimplePara>
+</entry>
+<entry align="left" colname="c8">
+<SimplePara>739.00</SimplePara>
+</entry>
+<entry align="left" colname="c9">
+<SimplePara>&#x003C;&#x2009;.001</SimplePara>
+</entry>
+</row>
+<row>
+<entry align="left" namest="c1" nameend="c9">
+<SimplePara><Superscript>a</Superscript> The p-value indicates if the change of a certain measure from pre- to post-intervention is significant within one group (intervention or control).</SimplePara>
+<SimplePara><Superscript>b</Superscript> The p-value indicates if the change of a certain measure from pre- to post-intervention is significantly different between intervention and control group.</SimplePara>
+<SimplePara>ANOVA analyses controlled for education, household income, and nativity.</SimplePara>
+</entry>
+</row>
+</tbody>
+</tgroup>
+</Table>
+</Para>
+<Bibliography ID="Bib1">
+<Heading>References</Heading>
+<Citation ID="CR1">
+<CitationNumber>1.</CitationNumber>
+<BibArticle>
+<BibAuthorName>
+<Initials>SS</Initials>
+<FamilyName>Wang</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>JD</Initials>
+<FamilyName>Carreon</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>SL</Initials>
+<FamilyName>Gomez</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>SS</Initials>
+<FamilyName>Devesa</FamilyName>
+</BibAuthorName>
+<Year>2010</Year>
+<ArticleTitle Language="En">Cervical cancer incidence among 6 asian ethnic groups in the United States, 1996 through 2004</ArticleTitle>
+<JournalTitle>Cancer</JournalTitle>
+<VolumeID>116</VolumeID>
+<IssueID>4</IssueID>
+<FirstPage>949</FirstPage>
+<LastPage>956</LastPage>
+<BibArticleDOI>10.1002/cncr.24843</BibArticleDOI>
+</BibArticle>
+<BibUnstructured>Wang SS, Carreon JD, Gomez SL, Devesa SS (2010) Cervical cancer incidence among 6 asian ethnic groups in the United States, 1996 through 2004. Cancer 116(4):949&#x2013;956. doi:<ExternalRef><RefSource>10.1002/cncr.24843</RefSource><RefTarget TargetType="DOI" Address="10.1002/cncr.24843" /></ExternalRef></BibUnstructured>
+</Citation>
+<Citation ID="CR2">
+<CitationNumber>2.</CitationNumber>
+<BibArticle>
+<BibAuthorName>
+<Initials>GK</Initials>
+<FamilyName>Singh</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>A</Initials>
+<FamilyName>Jemal</FamilyName>
+</BibAuthorName>
+<Year>2017</Year>
+<ArticleTitle Language="En">Socioeconomic and Racial/Ethnic Disparities in Cancer Mortality, Incidence, and Survival in the United States, 1950&#x2013;2014: Over Six Decades of Changing Patterns and Widening Inequalities</ArticleTitle>
+<JournalTitle>Journal of environmental public health</JournalTitle>
+<VolumeID>2017</VolumeID>
+<FirstPage>2819372</FirstPage>
+<BibArticleDOI>10.1155/2017/2819372</BibArticleDOI>
+</BibArticle>
+<BibUnstructured>Singh GK, Jemal A (2017) Socioeconomic and Racial/Ethnic Disparities in Cancer Mortality, Incidence, and Survival in the United States, 1950&#x2013;2014: Over Six Decades of Changing Patterns and Widening Inequalities. Journal of environmental public health 2017:2819372. doi:<ExternalRef><RefSource>10.1155/2017/2819372</RefSource><RefTarget TargetType="DOI" Address="10.1155/2017/2819372" /></ExternalRef></BibUnstructured>
+</Citation>
+<Citation ID="CR3">
+<CitationNumber>3.</CitationNumber>
+<BibArticle>
+<BibAuthorName>
+<Initials>CA</Initials>
+<FamilyName>Thompson</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>SL</Initials>
+<FamilyName>Gomez</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>A</Initials>
+<FamilyName>Chan</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>JK</Initials>
+<FamilyName>Chan</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>SR</Initials>
+<FamilyName>McClellan</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>S</Initials>
+<FamilyName>Chung</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>C</Initials>
+<FamilyName>Olson</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>V</Initials>
+<FamilyName>Nimbal</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>LP</Initials>
+<FamilyName>Palaniappan</FamilyName>
+</BibAuthorName>
+<Year>2014</Year>
+<ArticleTitle Language="En">Patient and provider characteristics associated with colorectal, breast, and cervical cancer screening among Asian Americans</ArticleTitle>
+<JournalTitle>Cancer Epidemiol Biomarkers Prev</JournalTitle>
+<VolumeID>23</VolumeID>
+<IssueID>11</IssueID>
+<FirstPage>2208</FirstPage>
+<LastPage>2217</LastPage>
+<BibArticleDOI>10.1158/1055-9965.Epi-14-0487</BibArticleDOI>
+</BibArticle>
+<BibUnstructured>Thompson CA, Gomez SL, Chan A, Chan JK, McClellan SR, Chung S, Olson C, Nimbal V, Palaniappan LP (2014) Patient and provider characteristics associated with colorectal, breast, and cervical cancer screening among Asian Americans. Cancer Epidemiol Biomarkers Prev 23(11):2208&#x2013;2217. doi:<ExternalRef><RefSource>10.1158/1055-9965.Epi-14-0487</RefSource><RefTarget TargetType="DOI" Address="10.1158/1055-9965.Epi-14-0487" /></ExternalRef></BibUnstructured>
+</Citation>
+<Citation ID="CR4">
+<CitationNumber>4.</CitationNumber>
+<BibArticle>
+<BibAuthorName>
+<Initials>HH</Initials>
+<FamilyName>Do</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>VM</Initials>
+<FamilyName>Taylor</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>N</Initials>
+<FamilyName>Burke</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>Y</Initials>
+<FamilyName>Yasui</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>SM</Initials>
+<FamilyName>Schwartz</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>JC</Initials>
+<FamilyName>Jackson</FamilyName>
+</BibAuthorName>
+<Year>2007</Year>
+<ArticleTitle Language="En">Knowledge about cervical cancer risk factors, traditional health beliefs, and Pap testing among Vietnamese American women</ArticleTitle>
+<JournalTitle>J Immigr Minor Health</JournalTitle>
+<VolumeID>9</VolumeID>
+<IssueID>2</IssueID>
+<FirstPage>109</FirstPage>
+<LastPage>114</LastPage>
+<BibArticleDOI>10.1007/s10903-006-9025-7</BibArticleDOI>
+</BibArticle>
+<BibUnstructured>Do HH, Taylor VM, Burke N, Yasui Y, Schwartz SM, Jackson JC (2007) Knowledge about cervical cancer risk factors, traditional health beliefs, and Pap testing among Vietnamese American women. J Immigr Minor Health 9(2):109&#x2013;114. doi:<ExternalRef><RefSource>10.1007/s10903-006-9025-7</RefSource><RefTarget TargetType="DOI" Address="10.1007/s10903-006-9025-7" /></ExternalRef></BibUnstructured>
+</Citation>
+<Citation ID="CR5">
+<CitationNumber>5.</CitationNumber>
+<BibArticle>
+<BibAuthorName>
+<Initials>L</Initials>
+<FamilyName>Schulmeister</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>DS</Initials>
+<FamilyName>Lifsey</FamilyName>
+</BibAuthorName>
+<Year>1999</Year>
+<ArticleTitle Language="En">Cervical cancer screening knowledge, behaviors, and beliefs of Vietnamese women</ArticleTitle>
+<JournalTitle>Oncol Nurs Forum</JournalTitle>
+<VolumeID>26</VolumeID>
+<IssueID>5</IssueID>
+<FirstPage>879</FirstPage>
+<LastPage>887</LastPage>
+</BibArticle>
+<BibUnstructured>Schulmeister L, Lifsey DS (1999) Cervical cancer screening knowledge, behaviors, and beliefs of Vietnamese women. Oncol Nurs Forum 26(5):879&#x2013;887</BibUnstructured>
+</Citation>
+<Citation ID="CR6">
+<CitationNumber>6.</CitationNumber>
+<BibArticle>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Saei Ghare Naz</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>N</Initials>
+<FamilyName>Kariman</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>A</Initials>
+<FamilyName>Ebadi</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>G</Initials>
+<FamilyName>Ozgoli</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>V</Initials>
+<FamilyName>Ghasemi</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>F</Initials>
+<FamilyName>Rashidi Fakari</FamilyName>
+</BibAuthorName>
+<Year>2018</Year>
+<ArticleTitle Language="En">Educational Interventions for Cervical Cancer Screening Behavior of Women: A Systematic Review</ArticleTitle>
+<JournalTitle>Asian Pac J Cancer Prev</JournalTitle>
+<VolumeID>19</VolumeID>
+<IssueID>4</IssueID>
+<FirstPage>875</FirstPage>
+<LastPage>884</LastPage>
+<BibArticleDOI>10.22034/apjcp.2018.19.4.875</BibArticleDOI>
+</BibArticle>
+<BibUnstructured>Saei Ghare Naz M, Kariman N, Ebadi A, Ozgoli G, Ghasemi V, Rashidi Fakari F (2018) Educational Interventions for Cervical Cancer Screening Behavior of Women: A Systematic Review. Asian Pac J Cancer Prev 19(4):875&#x2013;884. doi:<ExternalRef><RefSource>10.22034/apjcp.2018.19.4.875</RefSource><RefTarget TargetType="DOI" Address="10.22034/apjcp.2018.19.4.875" /></ExternalRef></BibUnstructured>
+</Citation>
+<Citation ID="CR7">
+<CitationNumber>7.</CitationNumber>
+<BibArticle>
+<BibAuthorName>
+<Initials>GX</Initials>
+<FamilyName>Ma</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>CY</Initials>
+<FamilyName>Fang</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>Z</Initials>
+<FamilyName>Feng</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>Y</Initials>
+<FamilyName>Tan</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>W</Initials>
+<FamilyName>Gao</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>S</Initials>
+<FamilyName>Ge</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>C</Initials>
+<FamilyName>Nguyen</FamilyName>
+</BibAuthorName>
+<Year>2012</Year>
+<ArticleTitle Language="En">Correlates of cervical cancer screening among Vietnamese American women</ArticleTitle>
+<JournalTitle>Infect Dis Obstet Gynecol</JournalTitle>
+<VolumeID>2012</VolumeID>
+<FirstPage>617234</FirstPage>
+<BibArticleDOI>10.1155/2012/617234</BibArticleDOI>
+</BibArticle>
+<BibUnstructured>Ma GX, Fang CY, Feng Z, Tan Y, Gao W, Ge S, Nguyen C (2012) Correlates of cervical cancer screening among Vietnamese American women. Infect Dis Obstet Gynecol 2012:617234. doi:<ExternalRef><RefSource>10.1155/2012/617234</RefSource><RefTarget TargetType="DOI" Address="10.1155/2012/617234" /></ExternalRef></BibUnstructured>
+</Citation>
+<Citation ID="CR8">
+<CitationNumber>8.</CitationNumber>
+<BibArticle>
+<BibAuthorName>
+<Initials>GX</Initials>
+<FamilyName>Ma</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>W</Initials>
+<FamilyName>Gao</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>CY</Initials>
+<FamilyName>Fang</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>Y</Initials>
+<FamilyName>Tan</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>Z</Initials>
+<FamilyName>Feng</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>S</Initials>
+<FamilyName>Ge</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>JA</Initials>
+<FamilyName>Nguyen</FamilyName>
+</BibAuthorName>
+<Year>2013</Year>
+<ArticleTitle Language="En">Health beliefs associated with cervical cancer screening among Vietnamese Americans</ArticleTitle>
+<JournalTitle>J Womens Health (Larchmt)</JournalTitle>
+<VolumeID>22</VolumeID>
+<IssueID>3</IssueID>
+<FirstPage>276</FirstPage>
+<LastPage>288</LastPage>
+<BibArticleDOI>10.1089/jwh.2012.3587</BibArticleDOI>
+</BibArticle>
+<BibUnstructured>Ma GX, Gao W, Fang CY, Tan Y, Feng Z, Ge S, Nguyen JA (2013) Health beliefs associated with cervical cancer screening among Vietnamese Americans. J Womens Health (Larchmt) 22(3):276&#x2013;288. doi:<ExternalRef><RefSource>10.1089/jwh.2012.3587</RefSource><RefTarget TargetType="DOI" Address="10.1089/jwh.2012.3587" /></ExternalRef></BibUnstructured>
+</Citation>
+<Citation ID="CR9">
+<CitationNumber>9.</CitationNumber>
+<BibArticle>
+<BibAuthorName>
+<Initials>GX</Initials>
+<FamilyName>Ma</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>C</Initials>
+<FamilyName>Fang</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>Y</Initials>
+<FamilyName>Tan</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>Z</Initials>
+<FamilyName>Feng</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>S</Initials>
+<FamilyName>Ge</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>C</Initials>
+<FamilyName>Nguyen</FamilyName>
+</BibAuthorName>
+<Year>2015</Year>
+<ArticleTitle Language="En">Increasing cervical cancer screening among Vietnamese Americans: a community-based intervention trial</ArticleTitle>
+<JournalTitle>J Health Care Poor Underserved</JournalTitle>
+<VolumeID>26</VolumeID>
+<IssueID>2 Suppl</IssueID>
+<FirstPage>36</FirstPage>
+<LastPage>52</LastPage>
+<BibArticleDOI>10.1353/hpu.2015.0064</BibArticleDOI>
+</BibArticle>
+<BibUnstructured>Ma GX, Fang C, Tan Y, Feng Z, Ge S, Nguyen C (2015) Increasing cervical cancer screening among Vietnamese Americans: a community-based intervention trial. J Health Care Poor Underserved 26(2 Suppl):36&#x2013;52. doi:<ExternalRef><RefSource>10.1353/hpu.2015.0064</RefSource><RefTarget TargetType="DOI" Address="10.1353/hpu.2015.0064" /></ExternalRef></BibUnstructured>
+</Citation>
+<Citation ID="CR10">
+<CitationNumber>10.</CitationNumber>
+<BibChapter>
+<BibAuthorName>
+<Initials>VJ</Initials>
+<FamilyName>Strecher</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>IM</Initials>
+<FamilyName>Rosenstock</FamilyName>
+</BibAuthorName>
+<Year>2002</Year>
+<ChapterTitle Language="En">The health belief model</ChapterTitle>
+<BibEditorName>
+<Initials>K</Initials>
+<FamilyName>Glanz</FamilyName>
+</BibEditorName>
+<BibEditorName>
+<Initials>FM</Initials>
+<FamilyName>Lewis</FamilyName>
+</BibEditorName>
+<BibEditorName>
+<Initials>BK</Initials>
+<FamilyName>Rimer</FamilyName>
+</BibEditorName>
+<Eds />
+<BookTitle>Health Behavior and Health Education</BookTitle>
+<EditionNumber>2</EditionNumber>
+<PublisherName>Jossey-Bass</PublisherName>
+<PublisherLocation>San Francisco</PublisherLocation>
+<FirstPage>41</FirstPage>
+<LastPage>56</LastPage>
+</BibChapter>
+<BibUnstructured>Strecher VJ, Rosenstock IM (2002) The health belief model. In: Glanz K, Lewis FM, Rimer BK (eds) Health Behavior and Health Education, 2&#x00A0;edn. Jossey-Bass, San Francisco, pp&#x00A0;41&#x2013;56</BibUnstructured>
+</Citation>
+<Citation ID="CR11">
+<CitationNumber>11.</CitationNumber>
+<BibArticle>
+<BibAuthorName>
+<Initials>A</Initials>
+<FamilyName>Bandura</FamilyName>
+</BibAuthorName>
+<Year>2001</Year>
+<ArticleTitle Language="En">Social cognitive theory: an agentic perspective</ArticleTitle>
+<JournalTitle>Annu Rev Psychol</JournalTitle>
+<VolumeID>52</VolumeID>
+<FirstPage>1</FirstPage>
+<LastPage>26</LastPage>
+<BibArticleDOI>10.1146/annurev.psych.52.1.1 52/1/1</BibArticleDOI>
+</BibArticle>
+<BibUnstructured>Bandura A (2001) Social cognitive theory: an agentic perspective. Annu Rev Psychol 52:1&#x2013;26. doi:<ExternalRef><RefSource>10.1146/annurev.psych.52.1.1 52/1/1</RefSource><RefTarget TargetType="DOI" Address="10.1146/annurev.psych.52.1.1 52/1/1" /></ExternalRef></BibUnstructured>
+</Citation>
+<Citation ID="CR12">
+<CitationNumber>12.</CitationNumber>
+<BibChapter>
+<BibAuthorName>
+<Initials>VJ</Initials>
+<FamilyName>Strecher</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>IM</Initials>
+<FamilyName>Rosenstock</FamilyName>
+</BibAuthorName>
+<Year>2002</Year>
+<ChapterTitle Language="En">The health belief model</ChapterTitle>
+<BibEditorName>
+<Initials>K</Initials>
+<FamilyName>Glanz</FamilyName>
+</BibEditorName>
+<BibEditorName>
+<Initials>FM</Initials>
+<FamilyName>Lewis</FamilyName>
+</BibEditorName>
+<BibEditorName>
+<Initials>BK</Initials>
+<FamilyName>Rimer</FamilyName>
+</BibEditorName>
+<Eds />
+<BookTitle>Health behavior and health education:Theory, research, and practice</BookTitle>
+<EditionNumber>2</EditionNumber>
+<PublisherName>Jossey-Bass</PublisherName>
+<PublisherLocation>San Francisco</PublisherLocation>
+<FirstPage>41</FirstPage>
+<LastPage>56</LastPage>
+</BibChapter>
+<BibUnstructured>Strecher VJ, Rosenstock IM (2002) The health belief model. In: Glanz K, Lewis FM, Rimer BK (eds) Health behavior and health education:Theory, research, and practice, 2&#x00A0;edn. Jossey-Bass, San Francisco, pp&#x00A0;41&#x2013;56</BibUnstructured>
+</Citation>
+<Citation ID="CR13">
+<CitationNumber>13.</CitationNumber>
+<BibArticle>
+<BibAuthorName>
+<Initials>A</Initials>
+<FamilyName>Bandura</FamilyName>
+</BibAuthorName>
+<Year>2001</Year>
+<ArticleTitle Language="En">Social cognitive theory: An agentic perspective</ArticleTitle>
+<JournalTitle>Annu Rev Psychol</JournalTitle>
+<VolumeID>52</VolumeID>
+<FirstPage>1</FirstPage>
+<LastPage>26</LastPage>
+</BibArticle>
+<BibUnstructured>Bandura A (2001) Social cognitive theory: An agentic perspective. Annu Rev Psychol 52:1&#x2013;26</BibUnstructured>
+</Citation>
+<Citation ID="CR14">
+<CitationNumber>14.</CitationNumber>
+<BibArticle>
+<BibAuthorName>
+<Initials>A</Initials>
+<FamilyName>Bandura</FamilyName>
+</BibAuthorName>
+<Year>2004</Year>
+<ArticleTitle Language="En">Health promotion by social cognitive means</ArticleTitle>
+<JournalTitle>Health Educ Behav</JournalTitle>
+<VolumeID>31</VolumeID>
+<IssueID>2</IssueID>
+<FirstPage>143</FirstPage>
+<LastPage>164</LastPage>
+<BibArticleDOI>10.1177/1090198104263660</BibArticleDOI>
+</BibArticle>
+<BibUnstructured>Bandura A (2004) Health promotion by social cognitive means. Health Educ Behav 31(2):143&#x2013;164. doi:<ExternalRef><RefSource>10.1177/1090198104263660</RefSource><RefTarget TargetType="DOI" Address="10.1177/1090198104263660" /></ExternalRef></BibUnstructured>
+</Citation>
+<Citation ID="CR15">
+<CitationNumber>15.</CitationNumber>
+<BibChapter>
+<BibAuthorName>
+<Initials>T</Initials>
+<FamilyName>Baranowski</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>CL</Initials>
+<FamilyName>Perry</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>GS</Initials>
+<FamilyName>Parcel</FamilyName>
+</BibAuthorName>
+<Year>2002</Year>
+<ChapterTitle Language="En">How individuals, environments, and health behavior interact: Social cognitive theory</ChapterTitle>
+<BibEditorName>
+<Initials>K</Initials>
+<FamilyName>Glanz</FamilyName>
+</BibEditorName>
+<BibEditorName>
+<Initials>FM</Initials>
+<FamilyName>Lewis</FamilyName>
+</BibEditorName>
+<BibEditorName>
+<Initials>BK</Initials>
+<FamilyName>Rimer</FamilyName>
+</BibEditorName>
+<Eds />
+<BookTitle>Health behavior and health education:Theory, research, and practice</BookTitle>
+<EditionNumber>2</EditionNumber>
+<PublisherName>Jossey-Bass</PublisherName>
+<PublisherLocation>San Francisco</PublisherLocation>
+<FirstPage>153</FirstPage>
+<LastPage>178</LastPage>
+</BibChapter>
+<BibUnstructured>Baranowski T, Perry CL, Parcel GS (2002) How individuals, environments, and health behavior interact: Social cognitive theory. In: Glanz K, Lewis FM, Rimer BK (eds) Health behavior and health education:Theory, research, and practice, 2nd&#x00A0;edn. Jossey-Bass, San Francisco, pp&#x00A0;153&#x2013;178</BibUnstructured>
+</Citation>
+<Citation ID="CR16">
+<CitationNumber>16.</CitationNumber>
+<BibArticle>
+<BibAuthorName>
+<Initials>CY</Initials>
+<FamilyName>Fang</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>GX</Initials>
+<FamilyName>Ma</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>Y</Initials>
+<FamilyName>Tan</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>N</Initials>
+<FamilyName>Chi</FamilyName>
+</BibAuthorName>
+<Year>2007</Year>
+<ArticleTitle Language="En">A multifaceted intervention to increase cervical cancer screening among underserved Korean women</ArticleTitle>
+<JournalTitle>Cancer Epidemiol Biomarkers Prev</JournalTitle>
+<VolumeID>16</VolumeID>
+<IssueID>6</IssueID>
+<FirstPage>1298</FirstPage>
+<LastPage>1302</LastPage>
+<BibArticleDOI>10.1158/1055-9965.epi-07-0091</BibArticleDOI>
+</BibArticle>
+<BibUnstructured>Fang CY, Ma GX, Tan Y, Chi N (2007) A multifaceted intervention to increase cervical cancer screening among underserved Korean women. Cancer Epidemiol Biomarkers Prev 16(6):1298&#x2013;1302. doi:<ExternalRef><RefSource>10.1158/1055-9965.epi-07-0091</RefSource><RefTarget TargetType="DOI" Address="10.1158/1055-9965.epi-07-0091" /></ExternalRef></BibUnstructured>
+</Citation>
+<Citation ID="CR17">
+<CitationNumber>17.</CitationNumber>
+<BibArticle>
+<BibAuthorName>
+<Initials>GX</Initials>
+<FamilyName>Ma</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>SE</Initials>
+<FamilyName>Shive</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>MQ</Initials>
+<FamilyName>Wang</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>Y</Initials>
+<FamilyName>Tan</FamilyName>
+</BibAuthorName>
+<Year>2009</Year>
+<ArticleTitle Language="En">Cancer screening behaviors and barriers in Asian Americans</ArticleTitle>
+<JournalTitle>Am J Health Behav</JournalTitle>
+<VolumeID>33</VolumeID>
+<IssueID>6</IssueID>
+<FirstPage>650</FirstPage>
+<LastPage>660</LastPage>
+</BibArticle>
+<BibUnstructured>Ma GX, Shive SE, Wang MQ, Tan Y (2009) Cancer screening behaviors and barriers in Asian Americans. Am J Health Behav 33(6):650&#x2013;660</BibUnstructured>
+</Citation>
+<Citation ID="CR18">
+<CitationNumber>18.</CitationNumber>
+<BibArticle>
+<BibAuthorName>
+<Initials>GX</Initials>
+<FamilyName>Ma</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>JI</Initials>
+<FamilyName>Toubbeh</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>MQ</Initials>
+<FamilyName>Wang</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>SE</Initials>
+<FamilyName>Shive</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>L</Initials>
+<FamilyName>Cooper</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>A</Initials>
+<FamilyName>Pham</FamilyName>
+</BibAuthorName>
+<Year>2009</Year>
+<ArticleTitle Language="En">Factors associated with cervical cancer screening compliance and noncompliance among Chinese, Korean, Vietnamese, and Cambodian women</ArticleTitle>
+<JournalTitle>J Natl Med Assoc</JournalTitle>
+<VolumeID>101</VolumeID>
+<IssueID>6</IssueID>
+<FirstPage>541</FirstPage>
+<LastPage>551</LastPage>
+</BibArticle>
+<BibUnstructured>Ma GX, Toubbeh JI, Wang MQ, Shive SE, Cooper L, Pham A (2009) Factors associated with cervical cancer screening compliance and noncompliance among Chinese, Korean, Vietnamese, and Cambodian women. J Natl Med Assoc 101(6):541&#x2013;551</BibUnstructured>
+</Citation>
+<Citation ID="CR19">
+<CitationNumber>19.</CitationNumber>
+<BibArticle>
+<BibAuthorName>
+<Initials>VL</Initials>
+<FamilyName>Champion</FamilyName>
+</BibAuthorName>
+<Year>1999</Year>
+<ArticleTitle Language="En">Revised susceptibility, benefits, and barriers scale for mammography screening</ArticleTitle>
+<JournalTitle>Res Nurs Health</JournalTitle>
+<VolumeID>22</VolumeID>
+<IssueID>4</IssueID>
+<FirstPage>341</FirstPage>
+<LastPage>348</LastPage>
+</BibArticle>
+<BibUnstructured>Champion VL (1999) Revised susceptibility, benefits, and barriers scale for mammography screening. Res Nurs Health 22(4):341&#x2013;348</BibUnstructured>
+</Citation>
+<Citation ID="CR20">
+<CitationNumber>20.</CitationNumber>
+<BibArticle>
+<BibAuthorName>
+<Initials>SE</Initials>
+<FamilyName>Kim</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>EJ</Initials>
+<FamilyName>Perez-Stable</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>S</Initials>
+<FamilyName>Wong</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>S</Initials>
+<FamilyName>Gregorich</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>GF</Initials>
+<FamilyName>Sawaya</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>JM</Initials>
+<FamilyName>Walsh</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>CP</Initials>
+<FamilyName>Kaplan</FamilyName>
+</BibAuthorName>
+<Year>2008</Year>
+<ArticleTitle Language="En">Association between cancer risk perception and screening behavior among diverse women</ArticleTitle>
+<JournalTitle>Arch Intern Med</JournalTitle>
+<VolumeID>168</VolumeID>
+<IssueID>7</IssueID>
+<FirstPage>728</FirstPage>
+<LastPage>734</LastPage>
+<BibArticleDOI>10.1001/archinte.168.7.728</BibArticleDOI>
+</BibArticle>
+<BibUnstructured>Kim SE, Perez-Stable EJ, Wong S, Gregorich S, Sawaya GF, Walsh JM, Kaplan CP (2008) Association between cancer risk perception and screening behavior among diverse women. Arch Intern Med 168(7):728&#x2013;734. doi:<ExternalRef><RefSource>10.1001/archinte.168.7.728</RefSource><RefTarget TargetType="DOI" Address="10.1001/archinte.168.7.728" /></ExternalRef></BibUnstructured>
+</Citation>
+<Citation ID="CR21">
+<CitationNumber>21.</CitationNumber>
+<BibArticle>
+<BibAuthorName>
+<Initials>Y-S</Initials>
+<FamilyName>Lee</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>CR</Initials>
+<FamilyName>Hofstetter</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>VL</Initials>
+<FamilyName>Irvin</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>S</Initials>
+<FamilyName>Kang</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>D</Initials>
+<FamilyName>Chhay</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>WD</Initials>
+<FamilyName>Reyes</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>MF</Initials>
+<FamilyName>Hovell</FamilyName>
+</BibAuthorName>
+<Year>2012</Year>
+<ArticleTitle Language="En">Korean American women&#x2019;s preventive health care practices: stratified samples in California, USA</ArticleTitle>
+<JournalTitle>Health Care Women Int</JournalTitle>
+<VolumeID>33</VolumeID>
+<IssueID>5</IssueID>
+<FirstPage>422</FirstPage>
+<LastPage>439</LastPage>
+<BibArticleDOI>10.1080/07399332.2011.603869</BibArticleDOI>
+</BibArticle>
+<BibUnstructured>Lee Y-S, Hofstetter CR, Irvin VL, Kang S, Chhay D, Reyes WD, Hovell MF (2012) Korean American women&#x2019;s preventive health care practices: stratified samples in California, USA. Health Care Women Int 33(5):422&#x2013;439. doi:<ExternalRef><RefSource>10.1080/07399332.2011.603869</RefSource><RefTarget TargetType="DOI" Address="10.1080/07399332.2011.603869" /></ExternalRef></BibUnstructured>
+</Citation>
+<Citation ID="CR22">
+<CitationNumber>22.</CitationNumber>
+<BibArticle>
+<BibAuthorName>
+<Initials>JA</Initials>
+<FamilyName>Chilton</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>BJ</Initials>
+<FamilyName>Gor</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>RA</Initials>
+<FamilyName>Hajek</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>LA</Initials>
+<FamilyName>Jones</FamilyName>
+</BibAuthorName>
+<Year>2005</Year>
+<ArticleTitle Language="En">Cervical cancer among Vietnamese women: efforts to define the problem among Houston&#x2019;s population</ArticleTitle>
+<JournalTitle>Gynecol Oncol</JournalTitle>
+<VolumeID>99</VolumeID>
+<IssueID>Suppl 1</IssueID>
+<FirstPage>S203</FirstPage>
+<LastPage>S206</LastPage>
+<BibArticleDOI>10.1016/j.ygyno.2005.07.084</BibArticleDOI>
+</BibArticle>
+<BibUnstructured>Chilton JA, Gor BJ, Hajek RA, Jones LA (2005) Cervical cancer among Vietnamese women: efforts to define the problem among Houston&#x2019;s population. Gynecol Oncol 99(3 Suppl 1):S203&#x2013;S206. doi:<ExternalRef><RefSource>10.1016/j.ygyno.2005.07.084</RefSource><RefTarget TargetType="DOI" Address="10.1016/j.ygyno.2005.07.084" /></ExternalRef></BibUnstructured>
+</Citation>
+<Citation ID="CR23">
+<CitationNumber>23.</CitationNumber>
+<BibArticle>
+<BibAuthorName>
+<Initials>S-Y</Initials>
+<FamilyName>Lee</FamilyName>
+</BibAuthorName>
+<Year>2015</Year>
+<ArticleTitle Language="En">Cultural Factors Associated with Breast and Cervical Cancer Screening in Korean American Women in the US: An Integrative Literature Review</ArticleTitle>
+<JournalTitle>Asian Nursing Research</JournalTitle>
+<VolumeID>9</VolumeID>
+<IssueID>2</IssueID>
+<FirstPage>81</FirstPage>
+<LastPage>90</LastPage>
+<BibArticleDOI>http://dx.doi.org/10.1016/j.anr.2015.05.003</BibArticleDOI>
+</BibArticle>
+<BibUnstructured>Lee S-Y (2015) Cultural Factors Associated with Breast and Cervical Cancer Screening in Korean American Women in the US: An Integrative Literature Review. Asian Nursing Research 9(2):81&#x2013;90. doi:<ExternalRef><RefSource>http://dx.doi.org/10.1016/j.anr.2015.05.003</RefSource><RefTarget TargetType="DOI" Address="10.1016/j.anr.2015.05.003" /></ExternalRef></BibUnstructured>
+</Citation>
+<Citation ID="CR24">
+<CitationNumber>24.</CitationNumber>
+<BibArticle>
+<BibAuthorName>
+<Initials>WC</Initials>
+<FamilyName>Tung</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Lu</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Granner</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>J</Initials>
+<FamilyName>Sohn</FamilyName>
+</BibAuthorName>
+<Year>2017</Year>
+<ArticleTitle Language="En">Assessing perceived benefits/barriers and self-efficacy for cervical cancer screening among Korean American women</ArticleTitle>
+<JournalTitle>Health Care Women Int</JournalTitle>
+<VolumeID>38</VolumeID>
+<IssueID>9</IssueID>
+<FirstPage>945</FirstPage>
+<LastPage>955</LastPage>
+<BibArticleDOI>10.1080/07399332.2017.1326495</BibArticleDOI>
+</BibArticle>
+<BibUnstructured>Tung WC, Lu M, Granner M, Sohn J (2017) Assessing perceived benefits/barriers and self-efficacy for cervical cancer screening among Korean American women. Health Care Women Int 38(9):945&#x2013;955. doi:<ExternalRef><RefSource>10.1080/07399332.2017.1326495</RefSource><RefTarget TargetType="DOI" Address="10.1080/07399332.2017.1326495" /></ExternalRef></BibUnstructured>
+</Citation>
+<Citation ID="CR25">
+<CitationNumber>25.</CitationNumber>
+<BibArticle>
+<BibAuthorName>
+<Initials>J</Initials>
+<FamilyName>Lee</FamilyName>
+</BibAuthorName>
+<BibAuthorName>
+<Initials>M</Initials>
+<FamilyName>Carvallo</FamilyName>
+</BibAuthorName>
+<Year>2014</Year>
+<ArticleTitle Language="En">Socioecological Perspectives on Cervical Cancer and Cervical Cancer Screening Among Asian American Women</ArticleTitle>
+<JournalTitle>J Community Health</JournalTitle>
+<BibArticleDOI>10.1007/s10900-014-9887-x</BibArticleDOI>
+</BibArticle>
+<BibUnstructured>Lee J, Carvallo M (2014) Socioecological Perspectives on Cervical Cancer and Cervical Cancer Screening Among Asian American Women. J Community Health. doi:<ExternalRef><RefSource>10.1007/s10900-014-9887-x</RefSource><RefTarget TargetType="DOI" Address="10.1007/s10900-014-9887-x" /></ExternalRef></BibUnstructured>
+</Citation>
+</Bibliography>
+</Article>
